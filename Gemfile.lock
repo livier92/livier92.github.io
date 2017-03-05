@@ -211,6 +211,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  minima
   nokogiri
   rack (~> 2.0.1)
   rspec
