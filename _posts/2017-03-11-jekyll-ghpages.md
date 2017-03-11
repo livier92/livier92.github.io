@@ -117,3 +117,11 @@ with Jekyll.
 That's it, you are done. Don't forget to push all these new changes in your
 remote repository. Hopefully, this tutorial will help you with the basic
 setup for your new blog.
+
+### **Additional information**
+
+While doing this blog and using drafts, I was wondering if there was a command
+to publish a draft directly. I find
+[Jekyll Compose](https://github.com/jekyll/jekyll-compose), which is a jekyll
+plugin that has that and more. Be sure to check it out and add it to your
+*Gemfile* for extra functionalities.
