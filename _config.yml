@@ -33,6 +33,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+permalink: none
+
 #Comment config
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']

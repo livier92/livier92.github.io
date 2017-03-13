@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to create a blog with Github Pages and Jekyll"
-categories: jekyll github pages
+categories: jekyll
 ---
 Okay, so you may be wondering, how do I start a blog from scratch?
 
