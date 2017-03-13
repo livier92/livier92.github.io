@@ -19,9 +19,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Join me on my programming adventures from journeyman to master in the
   software development world.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://livier92.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: livieer
-github_username:  livier92
+github_username: livier92
+repository_name: livier92/livier92.github.io
 
 # Build settings
 markdown: kramdown
@@ -31,3 +32,21 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+#Comment config
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601"
