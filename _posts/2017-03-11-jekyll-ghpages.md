@@ -125,3 +125,8 @@ to publish a draft directly. I find
 [Jekyll Compose](https://github.com/jekyll/jekyll-compose), which is a jekyll
 plugin that has that and more. Be sure to check it out and add it to your
 *Gemfile* for extra functionalities.
+
+Also, don't forget to add a comment section like the one below. Mine is really
+simple, I was just experimenting how it would be like to have a comment section
+on the bottom part. This [blog](https://mademistakes.com/articles/jekyll-static-comments/)
+definitely helped me get started. Good luck!
