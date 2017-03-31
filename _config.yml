@@ -35,6 +35,9 @@ exclude:
 
 permalink: none
 
+kramdown:
+  parse_block_html: true
+
 #Comment config
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
