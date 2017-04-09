@@ -28,11 +28,13 @@
           </li>
           {% endif %}
 
-          {% if site.twitter_username %}
+          {% if site.linkedin_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+              <i class="fa fa-linkedin"></i> LinkedIn
+            </a>
           </li>
-          {% endif %}
+        {% endif %}
         </ul>
       </div>
 
