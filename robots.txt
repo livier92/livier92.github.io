@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://livier92.github.io/sitemap.xml

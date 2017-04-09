@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "How to create a blog with Github Pages and Jekyll"
+title:  How to create a blog with Github Pages and Jekyll
+description: This post talks bout the basic steps to create a blog using Github Pages and Jekyll.
 categories: jekyll
 ---
 Okay, so you may be wondering, how do I start a blog from scratch?
@@ -123,8 +124,8 @@ setup for your new blog.
 While doing this blog and using drafts, I was wondering if there was a command
 to publish a draft directly. I find
 [Jekyll Compose](https://github.com/jekyll/jekyll-compose), which is a jekyll
-plugin that has that and more. Be sure to check it out and add it to your
-*Gemfile* for extra functionalities.
+plugin that has that and more. Be sure to check it out. To add a jekyll plugin, add it to your
+*_config.yml* and then `gem install`.
 
 Also, don't forget to add a comment section like the one below. Mine is really
 simple, I was just experimenting how it would be like to have a comment section

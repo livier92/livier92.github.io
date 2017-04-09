@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Running a simple webapp with Docker
+description: This post talks about how to create a web application using Docker. It also covers how to create and upload your Docker image.
+categories: Docker
 ---
 
 This tutorial is based on **Webapps with Docker** by [Docker Labs](https://github.com/docker/labs/blob/master/beginner/chapters/webapps.md).
