@@ -2,7 +2,7 @@
 layout: post
 title:  How to create a blog with Github Pages and Jekyll
 description: This post talks bout the basic steps to create a blog using Github Pages and Jekyll.
-categories: jekyll
+category: Jekyll
 ---
 Okay, so you may be wondering, how do I start a blog from scratch?
 

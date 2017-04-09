@@ -2,7 +2,7 @@
 layout: post
 title: Docker for beginners
 descrtiption: This post talks about the basic terminology of Docker. It covers the essential concepts to get started with Docker.
-categories: Docker
+category: Docker
 ---
 Surely, if you keep pace with the fast-moving software development world, you have heard the word *Docker* before. What does that mean anyway? Is there anything else I need to know besides their cute whale logo?
 
