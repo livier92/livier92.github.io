@@ -56,3 +56,6 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601"
+
+# Google services
+google_analytics: UA-97083835-1
